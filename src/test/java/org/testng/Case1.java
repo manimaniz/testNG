@@ -11,7 +11,7 @@ public class Case1 {
 	@Test
 	private void tc2() {
 		
-		System.out.println("tc2"+ Thread.currentThread().getId() );
+	System.out.println("testing github");
 
 	}
 
